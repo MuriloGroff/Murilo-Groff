@@ -1,5 +1,3 @@
-Claro! Aqui vai a versão com emojis para dar mais vida ao texto:
-
 ---
 
 Olá, eu sou Murilo Groff Cortez de Almeida 🤟🏻  
@@ -33,4 +31,3 @@ https://github-readme-stats.vercel.app/api/pin/?username=MuriloGroff&repo=lab-aw
 
 ---
 
-Espero que tenha ficado do jeito que você imaginou! 🚀😊
