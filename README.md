@@ -17,7 +17,7 @@ Olá, eu sou Murilo Groff Cortez de Almeida 🤟🏻
 ---
 
 📊 **Estatísticas no GitHub:**  
-⭐ https://github-readme-stats.vercel.app/api?username=MuriloGroff&show_icons=True&theme=dark
+⭐ ![Murilo Groff Github stats](https://github-readme-stats.vercel.app/api?username=MuriloGroff&show_icons=True&theme=dark)
 
 ---
 
