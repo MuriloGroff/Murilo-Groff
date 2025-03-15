@@ -22,12 +22,12 @@ Olá, eu sou Murilo Groff Cortez de Almeida 🤟🏻
 ---
 
 ✨ **Projetos em Destaque:**  
-https://github-readme-stats.vercel.app/api/pin/?username=MuriloGroff&repo=lab-aws-sagemaker-canvas-estoque&theme=dark
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuriloGroff&repo=lab-aws-sagemaker-canvas-estoque&theme=dark)
 
 ---
 
 📚 **Linguagens Mais Usadas:**  
-🌐 https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloGroff&show_icons=True&theme=dark
+🌐 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloGroff&show_icons=True&theme=dark)
 
 ---
 
