@@ -19,17 +19,17 @@ Olá, eu sou Murilo Groff Cortez de Almeida 🤟🏻
 ---
 
 📊 **Estatísticas no GitHub:**  
-⭐ [Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=MuriloGroff&show_icons=True&theme=dark)  
+⭐ https://github-readme-stats.vercel.app/api?username=MuriloGroff&show_icons=True&theme=dark
 
 ---
 
 ✨ **Projetos em Destaque:**  
-[SageMakerCanvas](https://github-readme-stats.vercel.app/api/pin/?username=MuriloGroff&repo=lab-aws-sagemaker-canvas-estoque&theme=dark)
+https://github-readme-stats.vercel.app/api/pin/?username=MuriloGroff&repo=lab-aws-sagemaker-canvas-estoque&theme=dark
 
 ---
 
 📚 **Linguagens Mais Usadas:**  
-🌐 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloGroff&show_icons=True&theme=dark)
+🌐 https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloGroff&show_icons=True&theme=dark
 
 ---
 
